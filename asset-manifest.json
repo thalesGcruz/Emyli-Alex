@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Emyli-Alex/static/css/main.4f2cdb3d.css",
-    "main.js": "/Emyli-Alex/static/js/main.0fae46b2.js",
-    "static/css/445.2bdcb5eb.chunk.css": "/Emyli-Alex/static/css/445.2bdcb5eb.chunk.css",
-    "static/js/445.f07a34bd.chunk.js": "/Emyli-Alex/static/js/445.f07a34bd.chunk.js",
-    "static/js/735.df720e32.chunk.js": "/Emyli-Alex/static/js/735.df720e32.chunk.js",
-    "static/media/flor1.svg": "/Emyli-Alex/static/media/flor1.fdce00c32a807e5c5ce5.svg",
-    "static/media/textura.svg": "/Emyli-Alex/static/media/textura.8e8f8d3f2e8ecfe9ffcb.svg",
-    "static/media/bootstrap-icons.woff?": "/Emyli-Alex/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
-    "static/media/bootstrap-icons.woff2?": "/Emyli-Alex/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
-    "static/media/Vector.png": "/Emyli-Alex/static/media/Vector.5b95b6880f16dc497962.png",
-    "index.html": "/Emyli-Alex/index.html",
-    "static/media/Component4.svg": "/Emyli-Alex/static/media/Component4.c2cda87630cb931dfb2a.svg",
-    "static/media/Group5.svg": "/Emyli-Alex/static/media/Group5.e8c19e1eae3ad9e5b33a.svg",
-    "main.4f2cdb3d.css.map": "/Emyli-Alex/static/css/main.4f2cdb3d.css.map",
-    "main.0fae46b2.js.map": "/Emyli-Alex/static/js/main.0fae46b2.js.map",
-    "445.2bdcb5eb.chunk.css.map": "/Emyli-Alex/static/css/445.2bdcb5eb.chunk.css.map",
-    "445.f07a34bd.chunk.js.map": "/Emyli-Alex/static/js/445.f07a34bd.chunk.js.map",
-    "735.df720e32.chunk.js.map": "/Emyli-Alex/static/js/735.df720e32.chunk.js.map"
+    "main.css": "/static/css/main.f89bc04e.css",
+    "main.js": "/static/js/main.a4205d71.js",
+    "static/css/445.922ab476.chunk.css": "/static/css/445.922ab476.chunk.css",
+    "static/js/445.f07a34bd.chunk.js": "/static/js/445.f07a34bd.chunk.js",
+    "static/js/735.df720e32.chunk.js": "/static/js/735.df720e32.chunk.js",
+    "static/media/flor1.svg": "/static/media/flor1.fdce00c32a807e5c5ce5.svg",
+    "static/media/textura.svg": "/static/media/textura.8e8f8d3f2e8ecfe9ffcb.svg",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "static/media/Vector.png": "/static/media/Vector.5b95b6880f16dc497962.png",
+    "index.html": "/index.html",
+    "static/media/Component4.svg": "/static/media/Component4.c2cda87630cb931dfb2a.svg",
+    "static/media/Group5.svg": "/static/media/Group5.e8c19e1eae3ad9e5b33a.svg",
+    "main.f89bc04e.css.map": "/static/css/main.f89bc04e.css.map",
+    "main.a4205d71.js.map": "/static/js/main.a4205d71.js.map",
+    "445.922ab476.chunk.css.map": "/static/css/445.922ab476.chunk.css.map",
+    "445.f07a34bd.chunk.js.map": "/static/js/445.f07a34bd.chunk.js.map",
+    "735.df720e32.chunk.js.map": "/static/js/735.df720e32.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f2cdb3d.css",
-    "static/js/main.0fae46b2.js"
+    "static/css/main.f89bc04e.css",
+    "static/js/main.a4205d71.js"
   ]
 }
