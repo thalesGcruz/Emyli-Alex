@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkEmily_Alex=self.webpackChunkEmily_Alex||[]).push([[445],{4445:function(n,e,u){u.r(e),u.d(e,{default:function(){return i}});var t=u(2791),r=u(470),s=u(184),f=function(){return(0,s.jsx)("footer",{})},c=function(){return(0,s.jsx)("header",{})};function i(n){return(0,t.useEffect)((function(){}),[]),(0,s.jsxs)("main",{children:[(0,s.jsx)(c,{}),(0,s.jsx)(r.j3,{}),(0,s.jsx)(f,{})]})}}}]);
+//# sourceMappingURL=445.94972908.chunk.js.map
